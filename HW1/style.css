@@ -1,0 +1,39 @@
+.sign-up{
+    display:flex;
+    flex-direction: center;
+    width: 50%;
+    justify-content: center;
+    padding-left: 25%;
+    
+}
+
+.user-credentials{
+    display:flex;
+    flex-direction: center;
+    width: 50%;
+    justify-content: center;
+    padding-left: 25%;
+
+}
+
+input{
+   margin : 20px;
+   padding : 10px;
+   
+}
+
+
+.register{
+    background-color: #2c61e9;
+    margin : 20px;
+    padding : 10px;
+    color: white;
+    
+}
+
+.sign-in{
+    background-color: #4ab337;
+    margin : 20px;
+    padding : 10px;
+    color: white;
+}
