@@ -1,0 +1,104 @@
+.navbar{
+    display:flex;
+    flex-direction: row;
+    background-color:#000;
+    color:white;
+    height: 70px;
+    padding-left:100px;
+    flex : 1 1 auto;
+    
+   
+}
+
+ul{
+    display:flex;
+    flex-direction:row;
+    gap:40px;
+   
+}
+
+
+.header{
+    display:flex;
+    flex-direction:column;
+    background-color: #C6BFBF;
+    height:300px;
+    flex : 1 1 auto;
+
+}
+
+.header-content-one{
+    display:flex;
+    flex-direction:column;
+    padding-left:100px;
+}
+
+.header-content-two{
+    display:flex;
+    flex-direction:column;
+    padding-left:100px;
+}
+
+.lorem{
+    display:flex;
+    height:50%;
+    flex-wrap:wrap;
+
+}
+
+.body-content{
+    
+    display:flex;
+    flex-direction: row;
+    background-color: white;
+    justify-content: center;
+    height:100px;
+    flex : 1 1 auto;
+    gap:50px 100px;
+    padding-left: 20px;
+
+}
+
+.box-one{
+    display:flex;
+    flex-direction: colum;
+    height:200px;
+    width:200px;
+    flex-wrap: wrap;
+    flex : 1 1 auto;
+    padding-top: 100px;
+
+}
+
+.box-two{
+    display:flex;
+    flex-direction: row;
+    height:200px;
+    width:200px;
+    flex-wrap: wrap;
+    flex : 1 1 auto;
+    padding-top: 100px;
+
+}
+
+.box-three{
+    display:flex;
+    flex-direction: row;
+    height:200px;
+    width:200px;
+    flex-wrap: wrap;
+    flex : 1 1 auto;
+    padding-top: 100px;
+
+}
+
+
+.footer{
+    
+    display:flex;
+    flex-direction: row;
+    background-color: #0b4d14;
+    color:white;
+    justify-content: center;
+    gap:20px;
+}
